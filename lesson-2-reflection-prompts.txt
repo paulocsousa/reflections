@@ -28,6 +28,15 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When I want to make an experimental feature without changing the code base,
+	and have a current version working. Or when a need to make something 
+	personalized for a client for example or a premium version of the application,
+	or a version in another language. Maintaining the original version intact and
+	doing my experiments on the others or working in a separated version in 
+	another language. Branches help maintain things organized. And working in
+	different versions of the master version without changing it or breaking it.
+	
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
