@@ -39,6 +39,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Diagrams helps me visualize the branch structure more clearly, so I can see
+	each commit's parent till the initial commit. It's easier to see the
+	branch in a diagram because it's visual, and we can have a picture of the
+	all branch at once. And it's easier to understand how branches and the
+	repository works with a visual element.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
