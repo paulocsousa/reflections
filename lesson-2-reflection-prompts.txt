@@ -48,5 +48,15 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is that when we merge the two branches together the code 
+and the features created in both are together now, as well as
+the commits in both branches. We can have a feature created in a separeted
+branch, isolate that feature, test it, after we can add it to the main branch
+of a project. You represented it in the diagram the way you did because, it's
+easear to understand and visualize. Still in git we don't visualize that way,
+but in fact it's what happen when we create a new branch it's created 
+separately from the main branch or the master branch the way we see it
+represented in the diagram.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
