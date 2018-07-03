@@ -60,3 +60,14 @@ represented in the diagram.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Sometimes there's merge conflicts in branches, and when there's git can't 
+automatically merge that branches, we need to manually resolve the conflicts
+and only after that is that we can merge the branches.
+For example, If I would have created an experimental branch and for example
+I've created a smaller version of the application, changed some parameters
+and have removed some features and if I wanted some new features from the
+master branch that had been done after the experimental branch,
+probably I would prefer doing the merge manually, so I would not have
+the features that I previously deleted, because an automatic merge will
+put everything in both branches together and I only want some features.
