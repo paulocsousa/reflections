@@ -1,1 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
+  It's useful to use a remote repository when I need or when a project need or have
+  more than one contributor, the remote repository would be a central repository
+  where all contributors can push or pull commits and contribute to the project in
+  one single place where all files will be placed and updated.
+  A remote repository can be useful too for backup, making a copy of a local 
+  repository in a remote place.
