@@ -5,3 +5,8 @@ When would you want to use a remote repository rather than keeping all your work
   one single place where all files will be placed and updated.
   A remote repository can be useful too for backup, making a copy of a local 
   repository in a remote place.
+  
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  Because I might be working with a file that was updated with new code by another developer and if git automatically pull
+  that changes to my local repository it might have conflicts.
