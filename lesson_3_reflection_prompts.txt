@@ -38,3 +38,17 @@ What is the benefit of having a copy of the last known state of the remote store
   that were introduced offline and then send them to remote when I get online.
   
   
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+  Collaboration without Git or GitHub probably I'll use another version control 
+  software or if there was none created yet, probably I'll use simples files
+  and exchange my changes in the files with my peers, but this way it'll
+  be more difficult too see conflicts between my changes and changes from
+  others, collaborators would need to tell others what they had changed so
+  others could know what was changed, keeping track of changes, and if I want
+  to go back in a "commit" it'll be harder. Without Git or GitHub we would not
+  need to learn a new tool, it's the only benefit I see not using Git or GitHub,
+  however it would be more useful in many ways using Git or GitHub to keep track
+  of a project, the changes and as a backup too.
+  
+  
